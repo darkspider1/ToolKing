@@ -291,3 +291,4 @@ else
   echo "somthing wrong ..."
   
  fi
+cd $HOME
